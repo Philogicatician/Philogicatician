@@ -20,7 +20,7 @@
 <br>
 
 - 💞️ I’m looking to collaborate on ...
-  - Building and applying TDA & ACT methods in Julia
+  - Building and applying TDA & ACT methods in Python & Julia
   - Researching fault-tolerant distributed networks (and formal proofs of such systems)
   - Identying disinformation campgains and quantifying their impact on different informational networks (Twitter, Facebook, etc.)
 
